@@ -1,5 +1,5 @@
 # MOSCOW TEAM CHAMPIONSHIP
-##SPRING 2017
+SPRING 2017
 
 Расписание турниров и участвующие команды:
 
