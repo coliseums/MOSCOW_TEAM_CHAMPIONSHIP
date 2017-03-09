@@ -1,7 +1,8 @@
-# MOSCOW TEAM CHAMPIONSHIP
-SPRING 2017
+# MOSCOW TEAM CHAMPIONSHIP SPRING 2017
 
-Расписание турниров и участвующие команды:
+Почта для сдачи ростеров: [coliseum40k@gmail.com](mailto:coliseum40k@gmail.com)
+
+> Ростеры присылаются одним файлом, отдельным, лучше в формате .txt в теме письма указывается название турнира (и дата, если это квалификация), а также состав игроков с контактами капитана и фракциями игроков.
 
 ## Квалификации:
 ### 18 марта
@@ -12,7 +13,7 @@ SPRING 2017
 
 Сдача ростеров до: 12.03.2017 23:59
 
-Место проведения: Клуб "Настолье"
+Место проведения: **Клуб "Настолье"**
 
 ### 19 марта
 - Rocket Team
@@ -22,7 +23,7 @@ SPRING 2017
 
 Сдача ростеров до: 12.03.2017 23:59
 
-Место проведения: Клуб "Настолье"
+Место проведения: **Клуб "Настолье"**
 
 ### 9 апреля
 - Тлен и Безысходность
@@ -32,46 +33,39 @@ SPRING 2017
 
 Сдача ростеров до: 02.04.2017 23:59
 
-Место проведения: Клуб "Черная Гвардия"
+Место проведения: **Клуб "Черная Гвардия"**
 
-Расписание и миссии на все дни отборочных:
+### Расписание и миссии:
 
-10.00 Открытие и регистрация
-10.30 - 14.00 1 тур
+Расписание и миссии на все дни отборочных.
 
-14.00 - 14.30 Обед
+| 10.00         | Открытие и регистрация |
+| ---           | --- |
+| 10.30 - 14.00 | **1 тур**              |
+| 14.00 - 14.30 | Обед                   |
+| 14.30 - 17.55 | **2 тур**              |
+| 18:00 - 21:30 | **3 тур**              |
 
-14.30 - 17.55 2 тур
+- **1 тур**: ETC Mission 1:
 
-18:00 - 21:30 3 тур
+**Objectives**: Eternal War: The Reaping + Maelstrom of War: Cleanse and Control
+> 6 objectives each worth two points. Elite and HQ choices that are destroyed at the end of the game give an extra VP.
 
+**Deployment**: Hammer and Anvil
 
-Миссии:
-1 тур: ETC Mission 1:
+- **2 тур**: ETC Mission 2:
 
-Objective #1:Eternal War: The Reaping: 6 objectives each worth two points. Elite and HQ choices that are destroyed at the end of the game give an extra VP.
+**Objectives**: Eternal War: Crusade + Maelstrom of War: Deadlock
+> 4 objectives (3 Victory Points each)
 
-Objective #2: Maelstrom of War: Cleanse and Control
+**Deployment**: Vanguard Strike
 
-Deployment: Hammer and Anvil
+- **3 тур**: ETC Mission 4:
 
+**Objectives**: Eternal War: The Emperor’s Will and Relic + Maelstrom of War: Tactical Escalation
+> 4 Victory Points for each objective
 
-2 тур: ETC Mission 2:
-
-Objective #1: Eternal War: Crusade 4 objectives (3 Victory Points each)
-
-Obective #2: Maelstrom of War: Deadlock
-
-Deployment: Vanguard Strike
-
-
-3 тур: ETC Mission 4:
-
-Objective #1: Eternal War: The Emperor’s Will and Relic (4 Victory Points for each objective)
-
-Objective #2: Maelstrom of War: Tactical Escalation
-
-Deployment: Dawn Of War
+**Deployment**: Dawn Of War
 
 
 ## Турнир "Masters" (29-30 апреля)
@@ -86,7 +80,7 @@ Deployment: Dawn Of War
 
 Сдача ростеров до: 16.04.2017 23:59
 
-Место проведения: лофт "Модуль" Москва, Нижняя Красносельская 35 стр. К 
+Место проведения: **лофт "Модуль" Москва, Нижняя Красносельская 35 стр. К **
 
 
 
@@ -96,14 +90,4 @@ Deployment: Dawn Of War
 
 Сдача ростеров до: 01.05.2017 23:59
 
-Место проведения: клуб "Содружество"
-
-
-
-
-
-ПОЧТА ДЛЯ СДАЧИ РОСТЕРОВ: coliseum40k@gmail.com
-
-Ростеры присылаются одним файлом, отдельным, лучше в формате .txt в теме письма указывается название турнира (и дата, если это квалификация), а также состав игроков с контактами капитана и фракциями игроков.
-
-
+Место проведения: **клуб "Содружество"**
