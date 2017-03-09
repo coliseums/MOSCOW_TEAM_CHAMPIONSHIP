@@ -35,29 +35,42 @@ SPRING 2017
 Место проведения: Клуб "Черная Гвардия"
 
 Расписание и миссии на все дни отборочных:
+
 10.00 Открытие и регистрация
 10.30 - 14.00 1 тур
+
 14.00 - 14.30 Обед
+
 14.30 - 17.55 2 тур
+
 18:00 - 21:30 3 тур
+
 
 Миссии:
 1 тур: ETC Mission 1:
 
 Objective #1:Eternal War: The Reaping: 6 objectives each worth two points. Elite and HQ choices that are destroyed at the end of the game give an extra VP.
+
 Objective #2: Maelstrom of War: Cleanse and Control
+
 Deployment: Hammer and Anvil
 
 
 2 тур: ETC Mission 2:
+
 Objective #1: Eternal War: Crusade 4 objectives (3 Victory Points each)
+
 Obective #2: Maelstrom of War: Deadlock
+
 Deployment: Vanguard Strike
 
 
 3 тур: ETC Mission 4:
+
 Objective #1: Eternal War: The Emperor’s Will and Relic (4 Victory Points for each objective)
+
 Objective #2: Maelstrom of War: Tactical Escalation
+
 Deployment: Dawn Of War
 
 
