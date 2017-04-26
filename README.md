@@ -20,6 +20,7 @@
 - Содом и Гоморра
 - Team Rocket
 - Чук и Гек
+- lol kek 4eburek
 
 Ростеры на Masters: https://drive.google.com/drive/folders/0B1Ei0AjZdMHFYm1IaG5FSXBkSFU
 
